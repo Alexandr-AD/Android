@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="my_name">Александр Алёшин</string>
+    <string name="my_description">Самый крутой андроид-разработчик</string>
+    <string name="phone_number">+7 (977) 274-53-87</string>
+    <string name="telegram_contact">\@aalexandr13</string>
+    <string name="email">a.alexandr.13@yandex.ru</string>
+</resources>
