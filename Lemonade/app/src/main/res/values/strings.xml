@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="tap_lemon_tree">Нажмите на лимонное дерево, чтобы взять лимон</string>
+    <string name="squeeze_lemon">Нажимайте на лимон, чтобы выжать его</string>
+    <string name="drink_lemonade">Нажмите на лимонад, чтобы выпить его</string>
+    <string name="start_again">Нажмите на пустой стакан, чтобы начать заново</string>
+    <string name="lemon_tree">Lemon tree</string>
+    <string name="lemon">Lemon</string>
+    <string name="glass_of_lemonade">Glass of lemonade</string>
+    <string name="empty_glass">Empty glass</string>
+</resources>
