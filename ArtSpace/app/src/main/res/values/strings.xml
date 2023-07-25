@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="night_visions">Night Visions</string>
+    <string name="smoke_mirrors">Smoke And Mirrors</string>
+    <string name="evolve">Evolve</string>
+    <string name="origins">Origins</string>
+    <string name="mercury_1">Mercury act 1</string>
+    <string name="mercury_2">Mercury act 2</string>
+    <string name="imag_dragons">Imagine Dragons</string>
+    <string name="year_2012">(2012)</string>
+    <string name="year_2015">(2015)</string>
+    <string name="year_2017">(2017)</string>
+    <string name="year_2018">(2018)</string>
+    <string name="year_2021">(2021)</string>
+    <string name="year_2022">(2022)</string>
+</resources>
