@@ -89,10 +89,12 @@ fun ExerciseCard(
     modifier: Modifier = Modifier
 ) {
     var expanded by remember { mutableStateOf(false) }
-    val color by animateColorAsState(
-        targetValue = if (expanded) MaterialTheme.colorScheme.tertiaryContainer
-        else MaterialTheme.colorScheme.primaryContainer
-    )
+//    val color by animateColorAsState(
+//        targetValue = if (expanded) MaterialTheme.colorScheme.tertiaryContainer
+//        else MaterialTheme.colorScheme.primaryContainer
+//    )
+    val color = MaterialTheme.colorScheme.primaryContainer
+
     Card(
         onClick = { expanded = !expanded },
         modifier = modifier
